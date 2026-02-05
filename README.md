@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Undergraduate Research for the University of South Carolina's Honor College
+- 🔭 I’m currently working on Undergraduate Research building Wordification for the University of South Carolina's Honor College
 - 🌱 I’m currently learning API-based AI model integration
 - 👯 I’m looking to collaborate on any projects where I can develop my skills in software engineering and AI/ML!
 - 💬 Ask me about my personal projects! I'm passionate about every one of them.
